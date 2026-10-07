@@ -1,0 +1,7 @@
+name = "cantonfair-guide"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+# Cloudflare Workers AI binding — exposes env.AI inside functions/
+[ai]
+binding = "AI"
